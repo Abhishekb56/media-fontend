@@ -1,0 +1,7 @@
+
+
+1.create watch history tab in home page
+2.create a new component for watch history
+3.(no,cardname,url,date)craete a watch history key in db.json
+4.when use click on the video card add data to db.json4.
+5.get watch history from json file to watch history component
